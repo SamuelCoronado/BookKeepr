@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/BookKeepr/static/css/main.c83739fb.chunk.css",
+    "main.js": "/BookKeepr/static/js/main.3ffe5e71.chunk.js",
+    "main.js.map": "/BookKeepr/static/js/main.3ffe5e71.chunk.js.map",
+    "runtime-main.js": "/BookKeepr/static/js/runtime-main.cebaaff6.js",
+    "runtime-main.js.map": "/BookKeepr/static/js/runtime-main.cebaaff6.js.map",
+    "static/js/2.51d9edc4.chunk.js": "/BookKeepr/static/js/2.51d9edc4.chunk.js",
+    "static/js/2.51d9edc4.chunk.js.map": "/BookKeepr/static/js/2.51d9edc4.chunk.js.map",
+    "static/js/3.dc7772e8.chunk.js": "/BookKeepr/static/js/3.dc7772e8.chunk.js",
+    "static/js/3.dc7772e8.chunk.js.map": "/BookKeepr/static/js/3.dc7772e8.chunk.js.map",
+    "index.html": "/BookKeepr/index.html",
+    "static/css/main.c83739fb.chunk.css.map": "/BookKeepr/static/css/main.c83739fb.chunk.css.map",
+    "static/js/2.51d9edc4.chunk.js.LICENSE.txt": "/BookKeepr/static/js/2.51d9edc4.chunk.js.LICENSE.txt",
+    "static/media/bookshelf.f0f1cd6c.png": "/BookKeepr/static/media/bookshelf.f0f1cd6c.png",
+    "static/media/mailSVG.87d24d3d.svg": "/BookKeepr/static/media/mailSVG.87d24d3d.svg",
+    "static/media/shelfSVG.0b1c21e8.svg": "/BookKeepr/static/media/shelfSVG.0b1c21e8.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cebaaff6.js",
+    "static/js/2.51d9edc4.chunk.js",
+    "static/css/main.c83739fb.chunk.css",
+    "static/js/main.3ffe5e71.chunk.js"
+  ]
+}
